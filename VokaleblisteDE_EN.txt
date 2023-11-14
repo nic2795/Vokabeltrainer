@@ -1,0 +1,10 @@
+Hund;Dog
+Zeitung;newspaper
+aber;but
+Arbeit;work
+Bein;leg
+Benzin;patrol
+Auto;car
+Buch;book
+Bleistift;pencil
+Bierflasche; bottle of beer

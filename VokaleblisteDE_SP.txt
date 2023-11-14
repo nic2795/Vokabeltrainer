@@ -1,0 +1,11 @@
+ja;sí
+nein;no
+vielleicht;quizás
+rot;rojo
+ich;yo
+du;tú
+er;él
+sie;ella
+Hund;Perro
+Bier;Cerveza
+Frau;Mujer

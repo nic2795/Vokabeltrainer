@@ -1,0 +1,5 @@
+Hund;chien
+Zeitung;journal
+aber;mais
+Arbeit;travail
+Bein;jambe
